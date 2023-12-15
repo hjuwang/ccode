@@ -7,3 +7,4 @@
 # 忽略exe 文件
 *.exe
 
+.vscode
