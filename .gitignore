@@ -1,2 +1,9 @@
 
-.vscode
+
+# 忽略 .vsdoce 目录
+.vscode/
+
+
+# 忽略exe 文件
+*.exe
+
